@@ -6,7 +6,7 @@
           <a-row type="flex">
             <a-col flex="200px">
               <router-link to="/">
-                <img style="width: 200px" :src="getImgUrl('logo.png')" />
+                <img style="width: 200px" src="/images/logo.png" />
               </router-link>
             </a-col>
             <a-col flex="auto"
@@ -39,7 +39,7 @@
             </a-col>
 
             <a-col :span="2">
-              <img :src="getImgUrl('lang_vi.jpg')" />
+              <img src="/images/lang_vi.jpg" />
             </a-col>
           </a-row>
         </a-col>

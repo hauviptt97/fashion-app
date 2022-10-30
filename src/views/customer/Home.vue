@@ -121,21 +121,21 @@ import ProductCard from "@/components/ProductCard.vue";
 
 const data = [{
         id: 1,
-        img: "src/assets/images/banner/banner1.jpg",
+        img: "/images/banner/banner1.jpg",
     }, {
         id: 2,
-        img: "src/assets/images/banner/banner2.jpg",
+        img: "/images/banner/banner2.jpg",
     }, {
         id: 3,
-        img: "src/assets/images/banner/banner3.jpg",
+        img: "/images/banner/banner3.jpg",
     },
     {
         id: 4,
-        img: "src/assets/images/banner/banner4.jpg",
+        img: "/images/banner/banner4.jpg",
     },
     {
         id: 5,
-        img: "src/assets/images/banner/banner5.jpg",
+        img: "/images/banner/banner5.jpg",
     },
 ];
 

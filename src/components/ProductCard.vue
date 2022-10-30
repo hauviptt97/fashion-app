@@ -1,7 +1,7 @@
 <template>
   <a-card href="" hoverable @click="getProductIdClick">
     <template #cover>
-      <img alt="imp product" :src="imgUrl" />
+      <img alt="imp product" :src="'/images/' + props.product.img[Math.ceil(Math.random() * 4)]" />
     </template>
     <div>
       <p class="title">{{ product.title }}</p>
@@ -70,10 +70,6 @@ const getProductIdClick = () => {
   });
 };
 
-const imgUrl = new URL(
-  "/src/assets/images/" + props.product.img[Math.ceil(Math.random() * 4)],
-  import.meta.url
-);
 </script>
 
 <style>
