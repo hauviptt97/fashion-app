@@ -2,9 +2,9 @@
   "name": "fashion-app",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite --host 8080",
+    "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview --port 4173"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
