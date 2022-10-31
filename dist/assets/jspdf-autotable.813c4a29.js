@@ -1,4 +1,4 @@
-import{c as $}from"./@babel.9e3f1cbd.js";import{r as J}from"./jspdf.a9cccab4.js";var Q={exports:{}};/*!
+import{c as $}from"./@babel.9e3f1cbd.js";import{r as J}from"./jspdf.6be7f5d4.js";var Q={exports:{}};/*!
  * 
  *               jsPDF AutoTable plugin v3.5.25
  *
