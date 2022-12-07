@@ -28,4 +28,4 @@ npm run dev
 npm run build
 ```
 #### DEMO
-![alt text](https://github.com/hauviptt97/fashion-app/tree/main/demo%20web/TrangChu.png?raw=true)
+![Home page](https://github.com/hauviptt97/fashion-app/blob/main/demo%20web/TrangChu.png?raw=true)
