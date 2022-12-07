@@ -52,7 +52,7 @@
               md: 4,
               lg: 4,
               xl: 6,
-              xxl: 3,
+              xxl: 4,
               xxxl: 2,
             }"
             :data-source="productsStore.products"

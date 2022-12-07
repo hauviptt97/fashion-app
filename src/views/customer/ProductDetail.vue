@@ -1,6 +1,5 @@
 <template>
-  {{ productsStore.product.title }}
-  <!-- <a-layout>
+  <a-layout>
     <a-layout-header>
       <a-row>
         <a-breadcrumb>
@@ -11,8 +10,7 @@
             <router-link to="/product">Sản phẩm</router-link>
           </a-breadcrumb-item>
           <a-breadcrumb-item>
-            abcd
-            {{ productsStore.product.title }}
+           {{ productsStore.product.title }}
           </a-breadcrumb-item>
         </a-breadcrumb>
       </a-row>
@@ -26,7 +24,6 @@
           <a-col :span="14">
             <a-row class="title">
               <h2>
-                121
                 {{ productsStore.product.title }}
               </h2>
             </a-row>
@@ -114,7 +111,7 @@
         </a-row>
       </div>
     </a-layout-content>
-  </a-layout> -->
+  </a-layout>
 </template>
 
 <script setup>
@@ -127,9 +124,7 @@ var id = url.substring(url.lastIndexOf("/") + 1);
 
 const productsStore = useProductsStore();
 
-alert("123");
 productsStore.getProductById(id);
-alert("456");
 
 // const pd = productsStore.product;
 // alert(pd.id);

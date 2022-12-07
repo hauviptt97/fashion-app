@@ -53,7 +53,7 @@
 <script setup>
 import { useCartStore } from "@/stores/cart.store";
 
-const baseUrl = "/src/assets/images/";
+const baseUrl = "/images/";
 const getImgUrl = (name) => {
   return new URL(baseUrl + name, import.meta.url);
 };

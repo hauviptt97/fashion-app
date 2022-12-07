@@ -18,7 +18,7 @@ const props = defineProps({
   },
 });
 
-const baseUrl = "/src/assets/images/";
+const baseUrl = "/images/";
 const getImgUrl = (i) => {
   return new URL(baseUrl + props.imgList[i], import.meta.url);
 };
