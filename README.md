@@ -27,3 +27,5 @@ npm run dev
 ```sh
 npm run build
 ```
+#### DEMO
+![alt text](https://github.com/hauviptt97/fashion-app/tree/main/demo%20web/TrangChu.png?raw=true)
