@@ -29,3 +29,19 @@ npm run build
 ```
 #### DEMO
 ![Home page](https://github.com/hauviptt97/fashion-app/blob/main/demo%20web/TrangChu.png?raw=true)
+
+![Product page](https://github.com/hauviptt97/fashion-app/blob/main/demo%20web/SanPham.png?raw=true)
+
+![Cart page](https://github.com/hauviptt97/fashion-app/blob/main/demo%20web/GioHang.png?raw=true)
+
+![Detail page](https://github.com/hauviptt97/fashion-app/blob/main/demo%20web/ChiTietSanPham.png?raw=true)
+
+![Admin page](https://github.com/hauviptt97/fashion-app/blob/main/demo%20web/TrangQuanLy.png?raw=true)
+
+![Renueve page](https://github.com/hauviptt97/fashion-app/blob/main/demo%20web/ThongKeDoanhThu1.png?raw=true)
+
+![Renueve page](https://github.com/hauviptt97/fashion-app/blob/main/demo%20web/ThongKeDoanhThu2.png?raw=true)
+
+![Renueve page](https://github.com/hauviptt97/fashion-app/blob/main/demo%20web/ThongKeDoanhThu3.png?raw=true)
+
+![Renueve page](https://github.com/hauviptt97/fashion-app/blob/main/demo%20web/ThongKeDoanhThu4.png?raw=true)
