@@ -28,16 +28,22 @@ npm run dev
 npm run build
 ```
 #### DEMO
+Home Page
 ![Home page](https://github.com/hauviptt97/fashion-app/blob/main/demo%20web/TrangChu.png?raw=true)
 
+Product page
 ![Product page](https://github.com/hauviptt97/fashion-app/blob/main/demo%20web/SanPham.png?raw=true)
 
+Cart page
 ![Cart page](https://github.com/hauviptt97/fashion-app/blob/main/demo%20web/GioHang.png?raw=true)
 
+Detail page
 ![Detail page](https://github.com/hauviptt97/fashion-app/blob/main/demo%20web/ChiTietSanPham.png?raw=true)
 
+Admin page
 ![Admin page](https://github.com/hauviptt97/fashion-app/blob/main/demo%20web/TrangQuanLy.png?raw=true)
 
+Renueve page
 ![Renueve page](https://github.com/hauviptt97/fashion-app/blob/main/demo%20web/ThongKeDoanhThu1.png?raw=true)
 
 ![Renueve page](https://github.com/hauviptt97/fashion-app/blob/main/demo%20web/ThongKeDoanhThu2.png?raw=true)
